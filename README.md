@@ -15,15 +15,21 @@ Lásd az új idő prófétájának arcát, ki délről kel majd fel a napfény v
 
 Ahhoz, hogy a kódot meghívd, midőn prototípusa még a gyarló JavaScript elgyötrött hátán képes csak átúszni a hetedhét óceánt, előbb fordítsd át a próféta igéjét kódra, mit legkönyebben a NodeJS futtat. Ám vígadj, mert a gaz npm béklyóitól megszabadítánk, így gépeden mindössze NodeJS kell hogy legyen ahhoz, hogy hihess és láss:
 ```sh
-node main <a fájl neve, mi tartalmazza a próféta igéjét>
+node main <a fájl neve, mi tartalmazza a próféta igéjét>.hzsombor
 ```
 Majd eztán
 ```sh
-node main <a fájl neve, mi tartalmazza a próféta igéjét>.js
+node main <a fájl neve, mi tartalmazza a próféta igéjét>.hzsombor.js
 ```
 
 
-És bár a próféta szavát meg kell hogy súgja minden szív, hogy elinduljatok a nagy úton, az examples mappában elhelyezés néhány gyermetek példát, mik bizony meglátjátok majdan, hogy futni fognak a fent írt módokon.
+És bár a próféta szavát meg kell hogy súgja minden szív, hogy elinduljatok a nagy úton, az examples mappában elhelyezés néhány gyermetek példát, mik bizony meglátjátok majdan, hogy futni fognak a fent írt módokon. Olyanokat, mint a bábeli zűrzavar minden nyelve számára kötelező világköszöntés, mely imígyen szól a próféta mennyei nyelvén:
+
+```sh
+IMÍGYEN SZÓLOTT VALA ZSOMBOR A HUNYADI
+FELKIÁLTA HÍVEI ELŐTT: "Hogy a francba nem tudjátok a kódot commit előtt ellenőrizni?"
+MAJD HÁTAT FORDÍTA ÉS ELKÜLDÉ FEJLESZTŐIT A PICSÁBA
+```
 
 
 Nescio quomodo hanc mentis morbum efficaciter claudere sed non valde blaspheme Ssombor!
