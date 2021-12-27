@@ -1,7 +1,7 @@
 {
-  "name": "ArnoldCJS",
+  "name": "Verbum Ssombor",
   "version": "0.0.1",
-  "description": "Compiler from ArnoldC to Javascript",
+  "description": "Compiler from the holy script Verbum Ssombor to Javascript",
   "main": "main.js",
   "directories": {
     "example": "examples"
@@ -11,16 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ThomasCrvsr/arnoldc-to-js.git"
+    "url": "https://github.com/ZooLeeCoding/Verbum_Ssombor"
   },
   "keywords": [
-    "arnoldc",
     "compiler"
   ],
-  "author": "ThomasCrvsr",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ThomasCrvsr/arnoldc-to-js/issues"
-  },
-  "homepage": "https://github.com/ThomasCrvsr/arnoldc-to-js"
+  "author": "ZooLeeCoding",
+  "license": "ISC"
 }
